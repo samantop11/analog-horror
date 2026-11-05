@@ -1,0 +1,11 @@
+body{
+    color: rgb(255, 255, 255);
+    background-color: black;
+    font-family: 'Courier New', Courier, monospace;
+}
+h1{
+    text-align: center;
+}
+span{
+    color:red;
+}
